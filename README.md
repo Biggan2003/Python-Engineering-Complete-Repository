@@ -603,7 +603,7 @@ Python_Engineering/
 
 ## 🧠 How We Will Learn
 
-Each `.py` chapter will be written as both:
+Each `.md` chapter will be written as both:
 
 - 📖 **Learning Material**
 - ⚡ **Long-Term Revision Notes**
